@@ -15,6 +15,5 @@
       "openFiles": ["app/page.tsx"]
     }
   },
-  "forwardPorts": [3000],
-  "updateContentCommand": "npm install && pip install -r equirements.txt"
+  "forwardPorts": [3000]
 }
